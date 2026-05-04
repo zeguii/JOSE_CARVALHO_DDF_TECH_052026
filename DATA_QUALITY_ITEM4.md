@@ -14,7 +14,7 @@ Conforme as melhores práticas, optei pela implementação da biblioteca `great-
 2. **Implementação e Relatório:**
    O script processou o dataset e gerou um log de validação isolando as anomalias, como pode ser visto na evidência abaixo.
 
-🔗 **Link para o Google Colab com o código fonte:** [COLE O LINK DO SEU COLAB AQUI]
+🔗 **Link para o Google Colab com o código fonte:** https://colab.research.google.com/drive/1MGM-9Tqm-07fV4alwCW2PO1nvUqYygpV#scrollTo=evZPgKlnZPwQ
 
 ## 📸 Evidência da Auditoria (Print)
 
